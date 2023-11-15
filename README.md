@@ -1,3 +1,7 @@
+# PitsA
+## Projeto desenvolvido durante os estudos da disciplina Projeto de Software, turma de 2023.1, da UFCG
+Desenvolvido em colaboração com [Lucas Emmanuel](https://github.com/lucasemmanuelsa), [André Felipe](https://github.com/AndreFelipeAlmeida), [Rafael Cavalcante](https://github.com/Rafael81716) e [Gabriel Yuri](https://github.com/GabrielYuriRF0).
+
 # 🍕 Pits A
 
 Recentemente, diversas empresas do ramo alimentício têm se desvinculado dos grandes aplicativos de delivery. As causas
